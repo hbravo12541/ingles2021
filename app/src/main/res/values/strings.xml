@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">English Linking</string>
+    <string name="large_text">
+        In this activity you must fill in the fields according to the adjective you think you see in the image.
+    </string>
+    <string name="title_activity_adjetives">Activity Adjetives</string>
+    <string name="action_settings">Settings</string>
+    <string name="joyful">Joyful</string>
+    <string name="typerYourAnwser">Typer Your Anwser</string>
+    <string name="angry">Angry</string>
+    <string name="title_activity_identify">Identify Activity</string>
+    <string name="title_activity_hear_and_write">Activity Hear and Write</string>
+    <string name="hear_title_activity">Hear and Write</string>
+    <string name="WriteHere">Write here</string>
+    <string name="title_activity_animales">Animals Activity</string>
+    <string name="title_activity_animals">Animals Activity</string>
+    <string name="title_activity_splash">splash</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="startHere">Show Modules</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="tituloMainActivity">English Learning with Kidya</string>
+    <string name="module1">Here are the modules</string>
+    <string name="identifyTitleButton">Identify the objects</string>
+    <string name="adjetiveTittleButton">Adjetives</string>
+    <string name="Logout">Logout</string>
+    <string name="Nombre">TextView</string>
+    <string name="Email">TextView</string>
+    <string name="welcome">Welcome</string>
+    <string name="logo_uleam">Logo Uleam</string>
+    <string name="hearAndWriteDescription">In this activity you hear the animal sound and write what animals you think is in the sound. The first char of the animal name is in the button. Enjoy.</string>
+    <string name="orderNumber">Order the numbers</string>
+    <string name="orderNumberDescription">In this activity you can drag and drop the elements and order the number from 1 to 10</string>
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "36723454804",
+    "firebase_url": "https://inglesvinculacionuleam.firebaseio.com",
+    "project_id": "inglesvinculacionuleam",
+    "storage_bucket": "inglesvinculacionuleam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36723454804:android:e72871595c957b078c4ec1",
+        "android_client_info": {
+          "package_name": "com.simulador.ingles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36723454804-q1rdo2t47hdq7k3h8k8iljnskaoptr9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhto9mQKBwvkB6al-aqQJ7qZtCdcLo0Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36723454804-q1rdo2t47hdq7k3h8k8iljnskaoptr9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
